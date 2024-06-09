@@ -12,17 +12,11 @@ O sistema de gerenciamento de vendas de uma esfiharia armazena dados de: cliente
 
 O objetivo da implementação desse sistema, é controlar todos os dados gerados no funcionamento de uma esfiharia. 
 
-##Esquema conceitual
-<img 
-  src="https://github.com/gabrielzanchetim/ProjetoEsfiharia-BD/assets/142922592/8b33284b-c842-49ff-8ae4-21ab612eeede" 
-    width="500")
->
+### Esquema conceitual
+![esquema conceitual](https://github.com/gabrielzanchetim/ProjetoEsfiharia-BD/assets/142922592/9960d0fa-2e21-4162-8cff-cd26c44d8ba3)
 
-##Projeto Lógico
 
-##Esquema conceitual
-<img 
-  src="https://github.com/gabrielzanchetim/ProjetoEsfiharia-BD/assets/142922592/4e0d619d-c0ce-45dc-b078-34543a8174d6" 
-    width="500")
->
+
+### Projeto Lógico
+![Sem Título-2](https://github.com/gabrielzanchetim/ProjetoEsfiharia-BD/assets/142922592/75ec528a-85fd-4977-98ee-6046d02894ee)
 
