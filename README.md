@@ -14,7 +14,7 @@ O objetivo da implementação desse sistema, é controlar todos os dados gerados
 
 ##Esquema conceitual
 <img 
-  src="[https://github.com/bielzann/selpics-photo-extractor/assets/142922592/6c323211-a935-40b4-a837-bf7116900908](https://github.com/gabrielzanchetim/ProjetoEsfiharia-BD/assets/142922592/8b33284b-c842-49ff-8ae4-21ab612eeede)" 
+  src="https://github.com/gabrielzanchetim/ProjetoEsfiharia-BD/assets/142922592/8b33284b-c842-49ff-8ae4-21ab612eeede" 
     width="500")
 >
 
@@ -22,7 +22,7 @@ O objetivo da implementação desse sistema, é controlar todos os dados gerados
 
 ##Esquema conceitual
 <img 
-  src="[[https://github.com/bielzann/selpics-photo-extractor/assets/142922592/6c323211-a935-40b4-a837-bf7116900908](https://github.com/gabrielzanchetim/ProjetoEsfiharia-BD/assets/142922592/8b33284b-c842-49ff-8ae4-21ab612eeede](https://github.com/gabrielzanchetim/ProjetoEsfiharia-BD/assets/142922592/4e0d619d-c0ce-45dc-b078-34543a8174d6))" 
+  src="https://github.com/gabrielzanchetim/ProjetoEsfiharia-BD/assets/142922592/4e0d619d-c0ce-45dc-b078-34543a8174d6" 
     width="500")
 >
 
