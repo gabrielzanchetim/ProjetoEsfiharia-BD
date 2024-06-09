@@ -18,5 +18,6 @@ O objetivo da implementação desse sistema, é controlar todos os dados gerados
 
 
 ### Projeto Lógico
-![Sem Título-2](https://github.com/gabrielzanchetim/ProjetoEsfiharia-BD/assets/142922592/75ec528a-85fd-4977-98ee-6046d02894ee)
+![projeto logico](https://github.com/gabrielzanchetim/ProjetoEsfiharia-BD/assets/142922592/ad7e8ba9-7edb-43a3-b90e-cd9ea8e4c7cd)
+
 
